@@ -1,0 +1,31 @@
+p, .titulo, li {
+    font-family: Arvo, sans-serif;
+}
+
+#image {
+  height: 400px; 
+  background: url("https://portaltriptips.com.br/wp-content/uploads/2024/11/Informacoes-sobre-a-Tchequia-Beyond-Immigration.png") center / cover no-repeat;
+}
+
+body{
+    background-color: rgb(16, 9, 54);
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    object-position: center;
+    padding: 20px;
+    font-size: 80px;
+}
+
+a{
+    color: rgb(13, 237, 122);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(251, 41, 142);
+    text-decoration: underline;
+}
+
